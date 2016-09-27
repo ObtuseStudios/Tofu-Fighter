@@ -1,0 +1,14 @@
+//Create as an offline chrome web app
+{
+    "app" : { "background" : { "scripts" : [ "background.js" ] } },
+    "manifest_version" : 2,
+    "name" : "Boxy",
+    "version" : "0.1",
+    
+    "description" : "A realtime online top down shooter.",
+    //"default_locale" : "en",
+    //"icons" : { "16" : "icon.png" },
+    
+    "author" : "Cameron",
+    "version_name" : "Hydrogen"
+}
